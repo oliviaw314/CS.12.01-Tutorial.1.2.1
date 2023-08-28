@@ -10,8 +10,7 @@ averageSteps, which returns the average number of steps per day, calculated by d
 
 The following table contains a sample code execution sequence and the corresponding results. 
 
-
-![image](https://github.com/techarenz/CS.12.01-Tutorial.1.2.1/assets/57818506/14003d99-6304-4c4d-8117-9fae5f48f9c7)
+![image](https://github.com/techarenz/CS.12.01-Tutorial.1.2.1/assets/57818506/720d8f6e-99ca-4ba4-9eff-c79fa0722dcc)
 
 
 Write the complete StepTracker class, including the constructor and any required instance variables and methods. Your implementation must pass all of the tests in the StepTrackerTest class (provided). 
